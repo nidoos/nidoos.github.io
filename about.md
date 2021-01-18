@@ -18,8 +18,6 @@ layout: page
 
 <ul class="skill-list">
 	<li>Java</li>
-	<li>Servlet</li>
-	<li>JSP</li>
 	<li>Android</li>
 	<li>HTML</li>
 	<li>Arduino</li>
