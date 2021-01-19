@@ -23,18 +23,18 @@ externalLink: false
 
 
 
-<img src = "/assets/2ppt/1.png" alt="1">
-<img src = "/assets/2ppt/2.png" alt="2">
-<img src = "/assets/2ppt/3.png" alt="3">
-<img src = "/assets/2ppt/4.png" alt="4">
-<img src = "/assets/2ppt/5.png" alt="5">
-<img src = "/assets/2ppt/6.png" alt="6">
-<img src = "/assets/2ppt/7.png" alt="7">
-<img src = "/assets/2ppt/8.png" alt="8">
-<img src = "/assets/2ppt/9.png" alt="9">
-<img src = "/assets/2ppt/10.png" alt="10">
-<img src = "/assets/2ppt/11.png" alt="11">
-<img src = "/assets/2ppt/12.png" alt="12">
-<img src = "/assets/2ppt/13.png" alt="13">
-<img src = "/assets/2ppt/14.png" alt="14">
-<img src = "/assets/2ppt/15.png" alt="15">
+<img src = "/assets/2ppt/1.jpg" alt="1">
+<img src = "/assets/2ppt/2.jpg" alt="2">
+<img src = "/assets/2ppt/3.jpg" alt="3">
+<img src = "/assets/2ppt/4.jpg" alt="4">
+<img src = "/assets/2ppt/5.jpg" alt="5">
+<img src = "/assets/2ppt/6.jpg" alt="6">
+<img src = "/assets/2ppt/7.jpg" alt="8">
+<img src = "/assets/2ppt/8.jpg" alt="7">
+<img src = "/assets/2ppt/9.jpg" alt="9">
+<img src = "/assets/2ppt/10.jpg" alt="10">
+<img src = "/assets/2ppt/11.jpg" alt="11">
+<img src = "/assets/2ppt/12.jpg" alt="12">
+<img src = "/assets/2ppt/13.jpg" alt="13">
+<img src = "/assets/2ppt/14.jpg" alt="14">
+<img src = "/assets/2ppt/15.jpg" alt="15">
