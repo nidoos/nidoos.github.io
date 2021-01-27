@@ -102,15 +102,12 @@ strong {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 
-code {
-  font-family: Noto Sans KR; /* 1 */
-  font-size: 1em; /* 2 */
-  background: #f7f7f7
-}
+code,
 kbd,
 samp {
   font-family: Noto Sans KR; /* 1 */
   font-size: 1em; /* 2 */
+  background: #EAEAEA
 }
 
 /**
