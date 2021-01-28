@@ -35,7 +35,6 @@ layout: page
 <ul>
 	<li>E-mail : hsoobin21@gmail.com</li>
 	<li>Blog : https://nidoos.github.io</li>
-	<li>Instagram : https://instagram.com/nnidoos</li>
 </ul>
 
 <!-- <h2>Projects</h2>
