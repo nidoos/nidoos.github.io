@@ -32,7 +32,7 @@ baseurl: ""
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [blog, java, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 ##twitter: mytwitter
@@ -80,6 +80,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+java: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
