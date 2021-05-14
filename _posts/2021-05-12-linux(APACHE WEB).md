@@ -10,18 +10,20 @@ author: nidoos
 description: "Linux study"
 ---
 
->윈도우에서 아파치.zip 다운받아 ftp를 이용하여 리눅스에 전송
+>윈도우에서 아파치.zip 다운받아 ftp를 이용하여 리눅스에 전송하기
 
 <br>
-1. 리눅스에 vsftpd 패키지 설치
-2. 방화벽 설정
+1. 리눅스에 vsftpd 패키지 설치 <br>
+2. 방화벽 설정 <br>
 3. virtual box 네트워크 설정
 
+---
+
 ### vsftpd 패키지 설치
-- vsftpd의 설치유무 확인
-  -  `# ps -ax | grep vsftpd`
-- vsftpd 설치
-  - `# yum -y install vsftpd`
+- vsftpd의 설치유무 확인<br>
+    `# ps -ax | grep vsftpd` <br>
+- vsftpd 설치<br>
+   `# yum -y install vsftpd`
 
 <br>
 
@@ -37,11 +39,7 @@ description: "Linux study"
 ```
 
 - `vi /etc/selinux/config`
-  - SELINUX = enforcing -> SELINUX = disabled 로 변경
-
-<br>
-
-### virtual box 네트워크 설정
+  - `SELINUX = enforcing` -> `SELINUX = disabled` 로 변경
 
 <br>
 
