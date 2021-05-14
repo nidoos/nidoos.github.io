@@ -55,8 +55,8 @@ ps -ax | grep vsftpd (vsftpd 실행 확인)
 
 ### NAT네트워크 설정하여 포트포워딩
 
-- 윈도우에서 리눅스의 FTP, SSH를 사용하고 싶다면 포트포워딩을 해야한다.
-  1) virtual box 파일-> 환경설정 -> 네트워크 -> NAT 네트워크 편집 -> 포트포워딩
+- 윈도우에서 리눅스의 FTP, SSH를 사용하고 싶다면 포트포워딩을 해야한다. <br>
+  1) virtual box 파일-> 환경설정 -> 네트워크 -> NAT 네트워크 편집 -> 포트포워딩 <br>
   2) 해당 os 설정 -> 네트워크 -> NAT 네트워크
 
 ![port](https://user-images.githubusercontent.com/71308719/118240210-b012fc00-b4d5-11eb-823f-27cadf55c9d0.JPG)
