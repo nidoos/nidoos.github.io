@@ -24,7 +24,6 @@ layout: page
 	<li>Python</li>
 	<li>Git</li>
 	<li>PHP</li>
-	<li>Python</li>
 	<li>Oracle</li>
 </ul>
 
