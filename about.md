@@ -23,7 +23,7 @@ layout: page
 	<li>Arduino</li>
 	<li>Python</li>
 	<li>Git</li>
-	<li>PHP</li>
+	<li>MySQL</li>
 	<li>Oracle</li>
 </ul>
 
