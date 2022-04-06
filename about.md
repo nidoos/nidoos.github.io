@@ -29,19 +29,19 @@ layout: page
 
 <hr>
 
+<h2>Projects</h2>
+
+<ul>
+	<li>전력거래소(KPX) 대표홈페이지 및 전력정보앱 개편</li>
+	<li>곡성교육포털 및 재단홈페이지 개선</li>
+	<li>광주광역시 서구 대표 홈페이지 전면 개편</li>
+</ul>
+
+<hr>
+
 <h2>Contact</h2>
 
 <ul>
 	<li>E-mail : hsoobin21@gmail.com</li>
 	<li>Blog : https://nidoos.tistory.com</li>
-</ul>
-
-<hr>
-
-<h2>Projects</h2>
-
-<ul>
-	<li>전력거래소(KPX) 대표홈페이지 및 전력정보앱 개편</li>
-	<li>곡성교육포털 및 재단홈페이지 개선</a></li>
-	<li>광주광역시 서구 대표 홈페이지 전면 개편</li>
 </ul>
