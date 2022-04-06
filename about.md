@@ -36,6 +36,8 @@ layout: page
 	<li>Blog : https://nidoos.tistory.com</li>
 </ul>
 
+<hr>
+
 <h2>Projects</h2>
 
 <ul>
