@@ -36,10 +36,10 @@ layout: page
 	<li>Blog : https://nidoos.tistory.com</li>
 </ul>
 
-<!-- <h2>Projects</h2>
+<h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul> -->
+	<li>전력거래소(KPX) 대표홈페이지 및 전력정보앱 개편</li>
+	<li>곡성교육포털 및 재단홈페이지 개선</a></li>
+	<li>광주광역시 서구 대표 홈페이지 전면 개편</li>
+</ul>
